@@ -18,6 +18,4 @@ def reverse_words_in_a_string_V4_without_built_in(s):
     return "".join(reversed(s))
 
 
-
 print(reverse_words_in_a_string_V4_without_built_in("My name is William"))
-
