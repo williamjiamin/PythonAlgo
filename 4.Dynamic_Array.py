@@ -1,3 +1,5 @@
+# Created by william from lexueoude.com. 更多正版技术视频讲解，公众号：乐学FinTech
+
 def is_anagram_or_not_by_using_algorithm(s, t):
     s = s.replace(' ', '').lower()
     t = t.replace(' ', '').lower()

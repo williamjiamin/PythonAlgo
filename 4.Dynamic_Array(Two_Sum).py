@@ -1,3 +1,5 @@
+# Created by william from lexueoude.com. 更多正版技术视频讲解，公众号：乐学FinTech
+
 def calculate_the_pair_of_the_target(array_list, T):
     if len(array_list) < 2:
         return print("No way, the array is too short, It even can't be called array!")

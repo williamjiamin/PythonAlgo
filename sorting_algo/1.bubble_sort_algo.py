@@ -1,3 +1,5 @@
+# Created by william from lexueoude.com. 更多正版技术视频讲解，公众号：乐学FinTech
+
 def bubble_sort_algo(list_to_be_sorted):
     for i in range(0, len(list_to_be_sorted) - 1):
         for j in range(0, len(list_to_be_sorted) - 1 - i):

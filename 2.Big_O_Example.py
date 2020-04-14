@@ -1,3 +1,5 @@
+# Created by william from lexueoude.com. 更多正版技术视频讲解，公众号：乐学FinTech
+
 # some_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 #
 #
